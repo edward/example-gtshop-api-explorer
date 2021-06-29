@@ -1,0 +1,1 @@
+# example-gtshop-api-explorer
